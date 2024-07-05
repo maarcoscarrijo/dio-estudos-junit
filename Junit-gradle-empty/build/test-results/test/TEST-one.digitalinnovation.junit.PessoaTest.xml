@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="one.digitalinnovation.junit.PessoaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-07-04T19:41:17" hostname="MacBook-Pro-do-Marcos.local" time="0.039">
+  <properties/>
+  <testcase name="validarCalculoDeIdade()" classname="one.digitalinnovation.junit.PessoaTest" time="0.039"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
